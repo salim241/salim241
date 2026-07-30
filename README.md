@@ -104,7 +104,7 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
 | Category | Details |
 |----------|---------|
 | Status | 🚧 In Development |
-| Frontend | HTML,CSS,JS |
+| Frontend | HTML,CSS,JavaScript |
 | Backend | Node.js |
 | Database | PostgreSQL |
 | Authentication | JWT |
@@ -125,48 +125,31 @@ An Android age calculator app that calculates a user’s precise age from their 
 
 | Category | Details |
 |----------|---------|
-| Frontend | XML,Java |
+| Frontend | XML, Java |
 | Backend | Java |
 | Database | Firebase |
-| Features | Calculating age precisely(even in seconds),Explore more facts about you |
+| Features | Calculating age precisely(even in seconds), Explore more facts about yourself |
 
 </details>
 
 ---
 
 <details>
-<summary><strong>🛍 Smart Grocery Store</strong></summary>
+<summary><strong>🛒 Swiggy Homepage Clone</strong></summary>
 <br>
-A Java application for managing grocery inventory and products efficiently.
+A responsive frontend clone of Swiggy’s homepage, recreating its modern layout, navigation, food sections, and overall user interface.
  
-**Repository:** https://github.com/surajsingh99245-ops/SmartGroceryStore
+**Repository:** https://github.com/salim241/Swiggy-Homepage-Clone
 
 | Category | Details |
 |----------|---------|
-| Language | Java |
-| Concepts | OOP, CRUD Operations |
-| Features | Inventory Management, Product Search |
+| Frontend | HTML, CSS, JavaScript |
+| Features | Responsive UI, Food Categories, Restaurant Listings |
 
 </details>
 
 ---
 
-<details>
-<summary><strong>🎓 Cognivo</strong></summary>
-<br>
-Frontend educational website prototype built with a focus on responsive design.
-<br>
-
-**Repository:** https://github.com/surajsingh99245-ops/COGNIVO
-
-| Category | Details |
-|----------|---------|
-| Stack | HTML, CSS |
-| Features | Responsive Layout, Modern Interface |
-
-</details>
-
----
 # Engineering Journey
 
 ## Current Focus
