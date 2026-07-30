@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=surajsingh99245-ops&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=salim241&style=for-the-badge&color=7C3AED"/>
 
 <img src="https://img.shields.io/github/followers/salim241?style=for-the-badge&logo=github"/>
 
@@ -41,6 +41,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ### Current Interests
 
 - Full-Stack Development
+- Mobile App Development
 - Backend Engineering
 - Spring Boot
 - React
@@ -56,13 +57,13 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 ### Backend & Database
@@ -74,7 +75,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ### Tools & IDEs
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ---
