@@ -195,11 +195,11 @@ A responsive frontend clone of Swiggy’s homepage, recreating its modern layout
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=surajsingh99245-ops&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=salim241&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surajsingh99245-ops&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salim241&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
