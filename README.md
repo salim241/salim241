@@ -75,7 +75,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ### Tools & IDEs
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio" />
 </p>
 
 ---
@@ -115,18 +115,20 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
 ---
 
 <details>
-<summary><strong>🛒 TownCart</strong></summary>
+<summary><strong>📅 AgeLens</strong></summary>
 
 <br>
 
-A hyperlocal shopping platform that connects local businesses with nearby customers.
+An Android age calculator app that calculates a user’s precise age from their date of birth with a clean, simple, and user-friendly interface.
 <br>
-**Repository:** https://github.com/surajsingh99245-ops/TownCart
+**Repository:** https://github.com/salim241/AgeLens
 
 | Category | Details |
 |----------|---------|
-| Stack | HTML, CSS, JavaScript, Bootstrap |
-| Features | Product Listings, Responsive UI, Modern Design |
+| Frontend | XML,Java |
+| Backend | Java |
+| Database | Firebase |
+| Features | Calculating age precisely(even in seconds),Explore more facts about you |
 
 </details>
 
