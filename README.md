@@ -24,7 +24,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=surajsingh99245-ops&style=for-the-badge&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/surajsingh99245-ops?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/salim241?style=for-the-badge&logo=github"/>
 
 </div>
 
