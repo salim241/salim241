@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6C63FF?style=for-the-badge"/>
 
-<a href="mailto:surajsingh99245@gmail.com">
+<a href="mailto:salimali07869@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
