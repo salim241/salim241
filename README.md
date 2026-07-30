@@ -216,12 +216,12 @@ A responsive frontend clone of Swiggy’s homepage, recreating its modern layout
 
 </div>
 
- # 🐍 Contribution Snake
+ <!-- # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/surajsingh99245-ops/surajsingh99245-ops/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/salim241/salim241/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-</div>
+</div> -->
 
 ---
