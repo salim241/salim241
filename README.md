@@ -104,9 +104,9 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
 | Category | Details |
 |----------|---------|
 | Status | 🚧 In Development |
-| Frontend | React |
-| Backend | Spring Boot |
-| Database | MySQL |
+| Frontend | HTML,CSS,JS |
+| Backend | Node.js |
+| Database | PostgreSQL |
 | Authentication | JWT |
 | Features | Mood Tracking, Daily Journal, AI-ready Architecture |
 
