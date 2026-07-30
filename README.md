@@ -180,11 +180,11 @@ A responsive frontend clone of Swiggy’s homepage, recreating its modern layout
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Suraj_singh999/">
+<a href="https://leetcode.com/u/salim78/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://github.com/surajsingh99245-ops">
+<a href="https://github.com/salim241">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
