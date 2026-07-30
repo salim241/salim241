@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Java+Developer;React+Developer;Building+Scalable+Applications;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Java+Developer;Building+Scalable+Applications;Always+Learning"/>
 
 <br><br>
 
