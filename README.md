@@ -103,12 +103,12 @@ AI-powered mental wellness platform focused on helping users track moods, mainta
 
 | Category | Details |
 |----------|---------|
-| Status | 🚧 In Development |
-| Frontend | HTML,CSS,JavaScript |
-| Backend | Node.js |
+| Frontend | HTML5,CSS3,JavaScript |
+| Backend | Node.js, Express.js |
 | Database | PostgreSQL |
-| Authentication | JWT |
-| Features | Mood Tracking, Daily Journal, AI-ready Architecture |
+| AI Integration | Google Gemini API |
+| Authentication | Username & Password Authentication |
+| Features | AI Chat, Daily check-in, Daily Journal, Mood Tracking, Weekly/Monthly Reports |
 
 </details>
 
