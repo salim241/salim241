@@ -99,7 +99,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 <br>
 AI-powered mental wellness platform focused on helping users track moods, maintain journals, and build healthy habits.
  
-**Repository:** https://github.com/surajsingh99245-ops/MindMate
+**Repository:** https://github.com/salim241/MindMate
 
 | Category | Details |
 |----------|---------|
