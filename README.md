@@ -57,7 +57,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js" />
 </p>
 
 ### Frontend
