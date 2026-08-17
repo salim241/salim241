@@ -86,7 +86,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 
 | Area | Status | Description |
 |------|:------:|-------------|
-| AI Agents | 🌱 Learning | Exploring AI agent workflows and automation |
+| AI Agents | 🌱 Learning | Exploring AI agent workflows & automation |
 | Prompt Engineering | 📝 Practicing | Using structured prompts for software development |
 | Machine Learning | 🌱 Beginner | Completed Google × Kaggle AI Agents Intensive Course |
 | Software Engineering | 🚀 Active | Building scalable applications with modern development practices |
