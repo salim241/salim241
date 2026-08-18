@@ -46,7 +46,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 - Spring Boot
 - React
 - Data Structures & Algorithms
-- Artificial Intelligence
+- Artificial Intelligencc
 - Open Source
 
 ---
