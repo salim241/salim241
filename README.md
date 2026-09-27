@@ -63,7 +63,7 @@ Currently, I'm strengthening my backend development skills, practicing **Data St
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,vite" />
 </p>
 
 ### Backend & Database
